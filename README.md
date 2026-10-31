@@ -1,45 +1,43 @@
-# InAmigos Foundation – Internship Portfolio
+InAmigos Foundation Internship
 
-## About This Repository
+Welcome to my GitHub portfolio for the InAmigos Foundation internship.
 
-Welcome to my internship portfolio at InAmigos Foundation.
+This repository contains the tasks and reports I completed during the internship, showcasing my experience in research, data collection, AI-assisted analysis, and documentation.
 
-This repository showcases the research, data collection, AI-assisted analysis and documentation work completed during my internship.
+Internship Tasks
 
-## Internship Tasks
+Task 1 – NGO Research & Data Collection
 
-### Task 1 – NGO Research & Data Collection
-Research and compilation of information about NGOs, their objectives, activities and social initiatives.
+Researched NGOs and organised relevant information into a structured spreadsheet.
 
-### Task 2 – AI-Powered Data Analysis Report
-Research and analysis of a social-impact topic using AI tools to identify useful insights and findings.
+Task 2 – AI-Powered Data Analysis Report
 
-### Task 3 – Volunteer Opportunity Data Compilation
-Collection and organisation of volunteer opportunities, internships and fellowships available for students in India.
+Used AI-assisted research and analysis to explore a social-impact topic and document key insights.
 
-### Task 4 – AI Insights for NGO Growth
-Research-based recommendations to help NGOs improve outreach, volunteer engagement, fundraising and digital presence.
+Task 3 – Volunteer Opportunity Data Compilation
 
-## Tools Used
+Compiled volunteering opportunities, internships, and fellowships available for students in India.
 
-- ChatGPT and AI tools
-- Google Sheets
-- Microsoft Excel
-- Google Docs
-- Microsoft Word
-- GitHub
+Task 4 – AI Research Report
 
-## Key Learning Outcomes
+Prepared a structured report using research, analysis, and documentation.
 
-- Research and data collection
-- Data organisation and analysis
-- Report preparation
-- AI-assisted research
-- Critical thinking and problem-solving
-- Digital documentation
+Skills Developed
+
+- Online Research
+- Data Collection and Organisation
+- AI-Assisted Research and Analysis
+- Spreadsheet Management
+- Report Writing
+- Documentation
+
+Repository Structure
+
+- "Task-1-NGO-Research"
+- "Task-2-AI-Data-Analysis"
+- "Task-3-Volunteer-Opportunities"
+- "Task-4-AI-Research-Report"
 
 ---
 
-*Internship Organisation:* InAmigos Foundation
-
-*Portfolio:* Internship Projects and Assignments
+This repository documents my learning and work completed during the InAmigos Foundation internship.
